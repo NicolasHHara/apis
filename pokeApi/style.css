@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+main{
+    background-color: aqua;
+    height: 100vh;
+}
+.container{
+    background-color: bisque;
+    width: 20%;
+    height: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.imgPokemon{
+    background-color: aqua;
+    height: 3rem;
+}
+.btn{
+    height: 2.5rem;
+    width: 30%;
+    border: none;
+    margin-top: 70%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.btn :hover{
+     cursor: help;
+}
